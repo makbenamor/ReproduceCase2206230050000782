@@ -1,5 +1,13 @@
 {
 	"name": "ReproduceCase2206230050000782",
+	"properties": {
+		"globalParameters": {
+			"dbaname": {
+				"type": "string",
+				"value": "\"\""
+			}
+		}
+	},
 	"location": "westeurope",
 	"identity": {
 		"type": "SystemAssigned",
