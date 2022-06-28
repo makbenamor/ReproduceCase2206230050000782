@@ -1,0 +1,17 @@
+{
+	"name": "ReproduceCase2206230050000782",
+	"properties": {
+		"globalParameters": {
+			"sqlservername": {
+				"type": "string",
+				"value": "@linkedservice().SQL_Server_Name"
+			}
+		}
+	},
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0123cd99-1f34-4260-a6fd-2cf4a8bf2e19",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "SqlServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=serverkimo2022.database.windows.net;initial catalog=dbtestingcase;user id=kim32",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDMxNzE4MEE4LUI3OEQtNDJFRS04MDRBLTY4MjUxRjYxNDVBOV8xOWI3NjA3NC0wZjg3LTQyYWQtOTNmMS1hMjFhZjNkYjkxNTUiDQp9"
+		}
+	}
+}
