@@ -10,6 +10,12 @@
 		},
 		"SqlServer1_connectionString": {
 			"value": ""
+		},
+		"SqlServer2_connectionString": {
+			"value": ""
+		},
+		"SqlServerfull_connectionString": {
+			"value": ""
 		}
 	}
 }

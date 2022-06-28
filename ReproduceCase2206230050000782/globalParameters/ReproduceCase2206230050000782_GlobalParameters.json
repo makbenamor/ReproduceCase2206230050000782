@@ -1,1 +1,6 @@
-{}
+{
+	"dbaname": {
+		"type": "string",
+		"value": "\"\""
+	}
+}
