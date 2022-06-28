@@ -1,13 +1,5 @@
 {
 	"name": "ReproduceCase2206230050000782",
-	"properties": {
-		"globalParameters": {
-			"sqlservername": {
-				"type": "string",
-				"value": "@linkedservice().SQL_Server_Name"
-			}
-		}
-	},
 	"location": "westeurope",
 	"identity": {
 		"type": "SystemAssigned",
